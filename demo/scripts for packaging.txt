@@ -1,0 +1,14 @@
+scripts for backup
+
+
+after the development when finished all functions
+
+mvn clean install
+
+find the package under dir /Users/caspar/Desktop/demo/target/demo-0.0.1-SNAPSHOT.jar
+
+java -jar demo-0.0.1-SNAPSHOT.jar
+
+change ports
+
+java -jar demo-0.0.1-SNAPSHOT.jar --server.port=8081
